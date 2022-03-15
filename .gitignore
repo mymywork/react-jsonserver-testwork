@@ -1,0 +1,7 @@
+/FrontApp/node_modules/
+/JsonServer/node_modules/
+
+*.iml
+
+/FrontApp/dist/
+/.idea/
